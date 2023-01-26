@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Mallard Duck",
+        "scientificName": "Anas platyrhynchos",
+        "lifespan": "5 - 10 years",
+        "conservationStatus": "Least Concern (Population decreasing)",
+        "diet": "Omnivore",
+        "imgUrl": "/imgs/mallard.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Canvasback Duck",
+        "scientificName": "Aythya valisineria",
+        "lifespan": "10 years",
+        "conservationStatus": "Low Concern",
+        "diet": "Omnivore",
+        "imgUrl": "/imgs/canvasback.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Harlequin Duck",
+        "scientificName": "Histrionicus histrionicus",
+        "lifespan": "~14 years",
+        "conservationStatus": "Low Concern",
+        "diet": "Invertebrates and small fish",
+        "imgUrl": "/imgs/harlequin.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Wood Duck",
+        "scientificName": "Aix sponsa",
+        "lifespan": "3 to 4 years",
+        "conservationStatus": "Low Concern",
+        "diet": "Seeds, fruits, insects",
+        "imgUrl": "/imgs/wood.jpeg"
+    }
+    
+]
