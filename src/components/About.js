@@ -3,6 +3,7 @@ import { DuckItem } from "./DuckItem";
 import duckItems from "../data/ducks.json"
 
 export function About() {
+    // add a duck call functionality
     return (
         <>
             <h1> About </h1>
